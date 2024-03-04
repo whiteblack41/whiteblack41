@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Aleksandr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi there 👋 +I'm+Aleksandr)](https://git.io/typing-svg)
 
 I am from Moscow, Russia. Learning Kotlin from 2023
 
