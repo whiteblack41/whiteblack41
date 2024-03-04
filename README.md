@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Aleksandr
+
+I am from Moscow, Russia. Learning Kotlin from 2023
 
 <!--
 **whiteblack41/whiteblack41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
